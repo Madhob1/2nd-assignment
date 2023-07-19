@@ -13,6 +13,32 @@
        box-shadow: none;
     }
     
+/* hero secton start  */
+
+.hero_min_contant{
+    flex-direction: column-reverse;
+    text-align: center;
+
+}
+
+.hero_image{
+    width: 100%;
+
+}
+
+.hero_image img{
+    width: 90%;
+    text-align: center;
+
+
+}
+
+.hero_contant{
+    width: 100%;
+    
+
+}
+
  
 
 
@@ -20,7 +46,6 @@
 
 
 }
-
 
 
 
@@ -43,6 +68,8 @@
         box-shadow: none;
      }
      
+/* hero secton start  */
+
 
 
 }
