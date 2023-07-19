@@ -328,6 +328,87 @@ body {
 
 /* careers start  */
 
+.careers_bk{
+    background-color:#FF42A5;
+    background-image:url(/images/Group\ 65.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+
+
+
+
+
+}
+
+.careers_contant{
+    align-items: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+
+
+
+}
+
+.careers_text{
+    margin-right: 50%;
+
+
+
+
+
+}
+
+.cr_had{
+    font-size: 30px;
+    font-weight: 800;
+    color: white;
+
+
+}
+
+.cr_details{
+    color: white;
+
+}
+
+.list_cr{
+    display: flex;
+    gap: 10px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+
+.list_1 li{
+    list-style: none;
+    text-align: start;
+}
+
+.list_2 li{
+    list-style: none;
+    text-align: end;
+}
+
+.cr_btn {
+    background-color: white;
+    color: black;
+
+
+}
+
+
+
+
+.careers_img{
+    width: 50%;
+}
+.careers_img img{
+    display:none;
+
+    
+}
 
 
 
