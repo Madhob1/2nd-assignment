@@ -41,6 +41,76 @@
 
 /* gamer secton start  */
 
+.gamer_contaner{
+    flex-direction: column;
+    background-color: white;
+
+
+}
+
+.game_img{
+    max-width: 100%;
+
+}
+
+
+.game_contant {
+    width: 100%;
+    text-align: center;
+
+}
+.game_text{ 
+    padding: 10px;
+    
+}
+
+
+
+/* video secton start  */
+
+.video_head{
+    padding: 10px;
+    margin-top: 0px;
+    
+
+}
+
+.video_boxs {
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+
+}
+
+/* Play Instantly No Downloads start */
+
+
+.paly_contant{
+    flex-direction: column;
+    padding: 10px;
+    margin-top: 50px;
+
+
+}
+
+.play_texts{
+    margin-top: 0px;
+    margin-right:0px;
+    text-align:center;
+    width: 100%;
+    mar
+
+}
+
+.play_pic{
+    width: 70%;
+    padding-left: 70px;
+
+}
+
+
+
+
 
 
 
@@ -69,6 +139,77 @@
      }
      
 /* hero secton start  */
+
+.hero_min_contant{
+    flex-direction: column-reverse;
+    text-align: center;
+
+}
+
+.hero_image{
+    width: 100%;
+
+}
+
+.hero_image img{
+    width: 90%;
+    text-align: center;
+
+
+}
+
+.hero_contant{
+    width: 100%;
+    
+
+}
+
+
+/* gamer secton  */
+.gamer_contaner{
+    flex-direction: column;
+    background-color: white;
+
+
+}
+
+.game_img{
+    max-width: 100%;
+
+}
+
+
+.game_contant {
+    width: 100%;
+    text-align: center;
+
+}
+
+
+
+/* video secton start  */
+
+.video_head{
+    padding: 10px;
+
+}
+
+.video_boxs {
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+/* Play Instantly No Downloads start */
+
+
+
+
+
+
+
+
 
 
 

@@ -96,7 +96,6 @@ body {
     align-items: center;
     border-radius: 5px;
     font-weight: 500;
-    text-align:
 
 }
 
@@ -187,7 +186,149 @@ body {
 
 
 
-
-
 /* gamer secton start  */
+.game_background {
+    background-color: #FFF9FC;
+    margin-top: -12px;
+}
+
+
+.gamer_contaner{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+
+
+
+}
+
+.game_img{
+    max-width: 60%;
+
+}
+
+.game_image{
+    width: 100%;
+
+}
+
+.game_contant{
+    width: 40%;
+    text-align: end;
+
+}
+
+.gamer_tital{
+    font-size: 40px;
+    font-weight: 900;
+    background: -webkit-linear-gradient(#f75edb, #b447fc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+
+.pera_text{
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+
+}
+.game_text{
+
+}
+
+.our {
+    font-size: 18px;
+    padding-top: 15px;
+    font-weight: 500;
+    color:#534C64;
+
+}
+
+.every h2{
+    color:#534C64 ;
+    margin-top: -20px;
+
+}
+
 /* gamer secton end  */
+
+/* video secton start  */
+
+.video_head{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+   
+
+}
+
+.video_tital{
+    font-size: 40px;
+    margin-bottom:-10px;
+
+
+} 
+
+.video_boxs{
+    display: flex;
+    gap: 30px;
+    text-align: start;
+    margin-bottom: 50px;
+
+
+}
+
+.vd_img{
+    max-width: 100%;
+
+}
+.vd_textp{
+    font-weight: 600;
+}
+
+/* video secton end  */
+
+
+/* Play Instantly No Downloads start */
+
+.paly_contant{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    gap: 20px;
+
+
+}
+
+.play_texts{
+    margin-top: 120px;
+    margin-right: 100px;
+    text-align: end;
+    width: 50%;
+
+}
+
+.play_pic{
+    width: 40%;
+}
+
+.min_side_pic {
+    width: 40%;
+    margin-top: -150px;
+    margin-left: -60px ;
+
+}
+
+
+
+/* Play Instantly No Downloads end */
+
+/* careers start  */
+
+
+
+
+/* careers end  */
