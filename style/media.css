@@ -152,10 +152,42 @@ justify-content: space-between;
 .cards{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    gap: 0px;
 
 }
 
 
+.lcard p{
+    padding: 9px;
+
+
+
+}
+
+.lcard img{
+    width: 40px;
+        height: 40px;
+    }
+
+
+/* footer desing */
+
+.footer_menu {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-bottom: 10px;
+    text-align: center;
+
+
+}
+
+.button_menu{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+    text-align: center;
+
+}
 
 
 
