@@ -1,5 +1,18 @@
 /* design for mobile  */
 @media screen and (max-width: 576px) {
+     /* header desing  */
+    .main_contain{
+        max-width:100%;
+    }
+
+    .header_contant, .menu_items {
+        flex-direction: column;
+    }
+
+    #header-style{
+       box-shadow: none;
+    }
+    
  
 
 
@@ -15,8 +28,21 @@
 
 
 /* Desing for tab  */
-@media screen and (min-width: 578px) and (max-width: 900px) {
+@media screen and (min-width: 578px) and (max-width: 1169px) {
+    /* header desing     */
+    .main_contain{
+        max-width:100%;
+    }
 
+
+    .header_contant, .menu_items {
+        flex-direction: column;
+    }
+     
+    #header-style{
+        box-shadow: none;
+     }
+     
 
 
 }
