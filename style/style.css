@@ -413,3 +413,58 @@ body {
 
 
 /* careers end  */
+
+
+
+/* logo card desing start  */
+
+
+.l_back{
+    background-color:#FFF9FC;
+}
+
+.cards{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+}
+
+.lcard{
+    display: flex;
+    background-color: #ffffff;
+    align-items: center;
+    padding: 0px 10px;
+    border-radius: 40px;
+    border: 1px solid white;
+}
+
+.lcard:hover{
+    border: #FF42A5 1px solid;
+    cursor: pointer;
+}
+
+
+
+
+.lcard img{
+    width: 50px;
+    height: 50px;
+    display: inline;
+
+}
+
+.lcard p{
+        display: inline;
+        padding: 10px;
+
+
+
+}
+
+
+
+/* logo card desing end */
